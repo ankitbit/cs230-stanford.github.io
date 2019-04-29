@@ -10,7 +10,7 @@ google_analytics: UA-114319548-1
 # Build settings
 permalink: none
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
   - jekyll-seo-tag
